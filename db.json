@@ -1,0 +1,146 @@
+{
+  "posts": [
+    {
+      "name": "Mariana Bumba",
+      "email": "mariana@gmail.com2345",
+      "id": 2
+    },
+    {
+      "name": "Emilia Pimente",
+      "email": "emilia@gmail.com",
+      "id": 4
+    },
+    {
+      "id": 5,
+      "name": "Aderito",
+      "email": "aderito@gmail.com"
+    },
+    {
+      "id": 7,
+      "name": "Inocêncio Bumba ",
+      "email": "inocenciobumba2021@gmail.com"
+    },
+    {
+      "id": 8,
+      "name": "Herlander"
+    },
+    {
+      "id": 9,
+      "name": "Agnela Albano Trosso"
+    },
+    {
+      "id": 10,
+      "name": "Agnela Albano Trosso"
+    }
+  ],
+  "carr": [
+    {
+      "id": 1,
+      "nome": "Arroz",
+      "quantidade": "10",
+      "preco": "1000kz"
+    }
+  ],
+  "reservas": [
+    {
+      "id": 1,
+      "quarto": "Q1",
+      "local": "chão",
+      "estado": "sujo",
+      "tipo": "Divorciado",
+      "tarifa": "Noite",
+      "preco": "1000"
+    },
+    {
+      "id": 2,
+      "quarto": "Q2",
+      "local": "cima",
+      "estado": "limpo",
+      "tipo": "Viuvo",
+      "tarifa": "Diaria e Noite",
+      "preco": "2000"
+    },
+    {
+      "id": 5,
+      "quarto": "Q5",
+      "local": "andar",
+      "estado": "ocupado",
+      "tipo": "casal",
+      "tarifa": "Diaria",
+      "preco": "3000"
+    },
+    {
+      "id": 6,
+      "quarto": "Q6",
+      "local": "andar",
+      "estado": "ocupado",
+      "tipo": "solteiro",
+      "tarifa": "Manha",
+      "preco": "4000"
+    }
+  ],
+  "hospedar": [
+    {
+      "quarto": "Q5",
+      "tipo": "Divorciado",
+      "tarifa": "Diaria",
+      "preco": "3000",
+      "nomeEntidade": "Inocencio Bumba",
+      "id": 5
+    },
+    {
+      "quarto": "Q1",
+      "tipo": "casal",
+      "tarifa": "Diaria e Noite",
+      "preco": "2000",
+      "nomeEntidade": "Mariana Bumba",
+      "id": 6
+    },
+    {
+      "quarto": "Q2",
+      "tipo": "Viuvo",
+      "tarifa": "Diaria",
+      "preco": "3000",
+      "nomeEntidade": "Valdmiro Bumba",
+      "id": 7
+    }
+  ],
+  "clientes": [
+    {
+      "id": "1",
+      "nome": "Inocencio Bumba"
+    },
+    {
+      "id": "2",
+      "nome": "Mariana Bumba"
+    },
+    {
+      "id": "3",
+      "nome": "Valdmiro Bumba"
+    }
+  ],
+  "AddDoctores": [
+    {
+      "usuario": "j",
+      "nome": "b",
+      "ultimo": "b",
+      "email": "g",
+      "telefone": "5",
+      "estado": "r",
+      "genero": "2",
+      "data": "2024-02-12",
+      "id": "KxxQ1jz"
+    },
+    {
+      "usuario": "t",
+      "nome": "b",
+      "ultimo": "n",
+      "email": "n",
+      "telefone": "6",
+      "estado": "b",
+      "genero": "2",
+      "data": "2024-02-14",
+      "id": "i3kQ5aW"
+    }
+  ]
+}
